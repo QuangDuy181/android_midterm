@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">My Cinema</string>
+    <string name="detail_acitivity_label">Detail</string>
+    <string name="see_trailer_text"><u>See trailer</u></string>
+
+    <string-array name="movie_name">
+        <item>BLACK ADAM</item>
+        <item>LỜI NGUYỀN TẦM DA</item>
+        <item>MỒI QUỶ DỮ</item>
+        <item>ĐẶC VỤ XUYÊN QUỐC GIA</item>
+        <item>NGHI THỨC CẤM</item>
+        <item>ĐƯA EM TÌM MỐI TÌNH ĐẦU</item>
+        <item>GUILIVER DU KÝ</item>
+        <item>CÔ GÁI ĐẾN TỪ QUÁ KHỨ</item>
+        <item>TẤM VÉ ĐẾN TỪ THIÊN ĐƯỜNG</item>
+        <item>BỖNG DƯNG TRÚNG SỐ</item>
+    </string-array>
+
+    <string-array name="movie_url">
+        <item>https://www.youtube.com/watch?v=X0tOpBuYasI</item>
+        <item>https://www.youtube.com/watch?v=DIYklwQ9jgw</item>
+        <item>https://www.youtube.com/watch?v=dklyDcjCwC4</item>
+        <item>https://www.youtube.com/watch?v=t0ixlAp4BSU</item>
+        <item>https://www.youtube.com/watch?v=5L1occivwQ8</item>
+        <item>https://www.youtube.com/watch?v=_so76gNcbiI</item>
+        <item>https://www.youtube.com/watch?v=eNIS7UZdGbQ</item>
+        <item>https://www.youtube.com/watch?v=WsBV9s1SqpM</item>
+        <item>https://www.youtube.com/watch?v=pyYq_iGzetM</item>
+        <item>https://www.youtube.com/watch?v=pyYq_iGzetM</item>
+    </string-array>
+
+    <string-array name="movie_description">
+        <item>Dwayne Johnson sẽ góp mặt trong tác phẩm hành động - phiêu lưu mới của New Line Cinema, mang tên BLACK ADAM. Đây là bộ phim đầu tiên trên màn ảnh rộng khai thác câu chuyện của siêu anh hùng DC này, dưới sự sáng tạo của đạo diễn Jaume Collet-Serra (đạo diễn của Jungle Cruise). Gần 5.000 năm sau khi bị cầm tù với quyền năng tối thượng từ những vị thần cổ đại, Black Adam (Dwayne Johnson) sẽ được giải phóng khỏi nấm mồ chết chóc của mình, mang tới thế giới hiện đại một kiểu nhận thức về công lý hoàn toàn mới.</item>
+        <item>Để tìm cách chữa trị căn bệnh lạ cho em gái, cô bé 13 tuổi Nala phải cùng gia đình chuyển từ thành phố về miền quê và ở tạm trong ngôi nhà của bà ngoại… Trong thời gian ở cùng bà, Nala phát hiện ra người bà yêu dấu của mình dường như có gì đó rất mờ ám…</item>
+        <item>“Mồi Quỷ Dữ” xoay quanh sơ Ann (do Jacqueline Byers thủ vai) bị kéo vào một cuộc chiến tại một Nhà Thờ Công Giáo trước thế lực quỷ ám đang ngày một hùng mạnh. Với khả năng chiến đấu với quỷ dữ, sơ Ann được phép thực hiện các buổi trừ tà dẫu cho các luật lệ xưa cũ chỉ cho phép Cha xứ thực hiện công việc này. Cùng với Cha Dante, sơ Ann chạm mặt một con quỷ dữ đang cố chiếm lấy linh hồn của một cô gái trẻ, và cũng có thể là kẻ đã ám lấy người mẹ quá cố của sơ. Sơ Ann dần nhận ra mối nguy đang đe dọa mình khủng khiếp thế nào, và cả lý do con quỷ dữ đó khao khát đoạt mạng cô.</item>
+        <item>Câu chuyện phim ghi lại hành trình đặc vụ Triều Tiên Lim Cheol-ryung (Hyun Bin) quay trở lại Hàn Quốc để đánh sập một tổ chức tội phạm quốc tế tàn bạo, bí mật. Cùng lúc đó tại Hàn Quốc, Kang Jin-tae (Yoo Hai Jin) ở Đơn vị Tội phạm mạng đang khao khát trở lại đơn vị cũ thì được trao cho một nhiệm vụ đặc biệt với Cheol-ryung. Min-young (Lim Yoon A) cũng có cơ hội tiếp tục câu chuyện tình yêu “phát cuồng” dành cho Cheol-ryung. Jin-tae và Cheol-ryung cùng nhau làm việc dù vẫn còn nhiều nghi ngờ về động cơ của đối phương. Ngay khi bộ đôi chuẩn bị đột kích nơi ẩn náu của Jang Myung-jun (Jin Sun Kyu), thủ lĩnh của tổ chức tội phạm, thì đặc vụ FBI Jack (Daniel Henney) xông vào. Nhân tố mới này đã biến cuộc điều tra thành một cuộc điều tra quốc tế giữa 3 quốc gia, hứa hẹn nhiều tình tiết kịch tính và đầy bất ngờ.</item>
+        <item>Với khả năng cảm nhận những chuyện tâm linh đặc biệt, Jules (Fiona Dourif) thường là người lựa chọn những địa điểm “bị ám” để cùng nhóm bạn quay chương trình thực tế kiếm tiền. Nhận được lời kêu cứu của Ian (William Miller) và Martha (Malin Crépin), chủ nhân của một căn nhà cổ ở vùng núi Malaysia, cả nhóm đã nhận lời. Càng tìm hiểu kỹ về căn nhà, họ càng tìm ra những bí mật đen tối liên quan tới một nghi thức tàn bạo đã bị cấm từ lâu và dường như, thế lực hắc ám này có liên hệ tới quá khứ mà Jules luôn cố giấu…</item>
+        <item>Câu chuyện hài hước và duyên dáng theo chân hai vợ chồng trên hành trình tìm lại mối tình đầu thời trung học cho người vợ đã lo toan nội trợ suốt 20 năm. Siêu sao “Nghề siêu khó” quay lại phòng vé trong chuyến hành trình đong đầy cảm xúc.</item>
+        <item>Nhà du hành và thám hiểm thế giới Gulliver được mời quay trở lại Lilliput - thị trấn trước đây đã được anh cứu khỏi hạm đội kẻ thù. Khi đến nơi, anh chỉ nhận thấy sự phẫn nộ và thất vọng của đám đông vì huyền thoại Gulliver khổng lồ giờ đây chỉ là một người bình thường. Cùng lúc đó, kẻ thù lại đe dọa xứ sở này thêm một lần nữa.</item>
+        <item>Đang tất bật chuẩn bị cho đám cưới triệu đô cùng chàng Jack điển trai, đại mỹ nhân showbiz Ms. Q/Hoàng Quyên (Ninh Dương Lan Ngọc) bất ngờ mất tích một cách bí ẩn ngay sau khi gặp lại Quỳnh Yên (Kaity Nguyễn), một người bạn đã mất liên lạc từ 15 năm trước. Ngay lập tức, các rắc rối liên tục ập đến, kéo theo những bí mật đen tối của cả hai dần bị lột trần. Ai là kẻ thủ ác? Ai mới là nạn nhân? P/S: Bất kể cô ta có nói gì thì cũng nên nhớ: Đừng tin lời cô ta nói!</item>
+        <item>Hai diễn viên kỳ cựu của Hollywood - George Clooney và Julia Roberts sẽ tái hợp trên màn ảnh rộng trong vai đôi vợ chồng đã li hôn, nhưng lại cùng chung sứ mệnh ngăn cản cuộc kết hôn của đứa con gái yêu. Bởi họ sợ rằng con gái đang mắc phải sai lầm tương tự điều mà họ đã từng trải qua. Ticket to Paradise là một bộ phim hài lãng mạn về sự ngọt ngào bất ngờ của "cơ hội thứ hai”.</item>
+        <item>Người lính Hàn Quốc Chun Woo (Ko Kyoung-pyo) vô tình nhặt được tờ vé số trúng độc đắc trị giá lên đến gần 6 triệu đô! Nhưng chưa kịp vui mừng bao lâu, tờ vé số ấy không may bị cuốn bay sang bên kia biên giới và rơi vào tay anh lính Triều Tiên Yong Ho (Lee Yi-kyung). Chun Woo cần tờ vé số để đổi tiền, trong khi Yong Ho dù nắm giữ tờ vé quan trọng lại không thể đặt chân đến Hàn Quốc. Câu chuyện ngày càng trở nên rắc rối và hài hước khi có thêm những người đồng đội của hai anh chàng biết được sự việc và nhất quyết tham gia vào cuộc đàm phán chia tiền.</item>
+    </string-array>
+
+    <string-array name="movie_price">
+        <item>100.000 vnd</item>
+        <item>90.000 vnd</item>
+        <item>80.000 vnd</item>
+        <item>70.000 vnd</item>
+        <item>80.000 vnd</item>
+        <item>90.000 vnd</item>
+        <item>100.000 vnd</item>
+        <item>80.000 vnd</item>
+        <item>90.000 vnd</item>
+        <item>70.000 vnd</item>
+    </string-array>
+
+    <string-array name="movie_rating">
+        <item>9.5</item>
+        <item>8.0</item>
+        <item>7.5</item>
+        <item>9.0</item>
+        <item>6.5</item>
+        <item>9.0</item>
+        <item>5.5</item>
+        <item>4.0</item>
+        <item>8.5</item>
+        <item>7.0</item>
+    </string-array>
+
+
+</resources>
